@@ -1,0 +1,2 @@
+# JavaScript_medium_challenges
+Practicing JavaScript Medium Challenges
